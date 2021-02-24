@@ -1,0 +1,3 @@
+[submodule "warframe-world-state"]
+	path = warframe-world-state
+	url = https://github.com/WsureDev/warframe-world-state.git
