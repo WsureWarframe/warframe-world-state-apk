@@ -1,3 +1,4 @@
 include ':app'
-include ':warframe-world-state'
+//include ':warframe-world-state'
+includeBuild "warframe-world-state"
 rootProject.name = "warframe-world-state-apk"
