@@ -40,7 +40,7 @@ dependencies {
 //    implementation 'androidx.appcompat:appcompat:1.2.0'
 //    implementation 'com.google.android.material:material:1.3.0'
 //    implementation project(":warframe-world-state")
-    implementation ('top.wsure.warframe:warframe-world-state:0.0.4')
+    implementation ('top.wsure.warframe:warframe-world-state:0.0.5')
     testImplementation 'junit:junit:4.+'
 //    implementation fileTree("../warframe-world-state/build/mirai/")
 //    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
